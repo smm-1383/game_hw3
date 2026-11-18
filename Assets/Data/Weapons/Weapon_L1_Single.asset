@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58699952397a9d9e0b7f5a600a3d0cf3, type: 3}
+  m_Name: Weapon_L1_Single
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Single Laser
+  icon: {fileID: 21300000, guid: 98fa1769d9d642b5d844da77a4fde4fc, type: 3}
+  bulletPrefab: {fileID: 5095524554569672316, guid: 47c69d1378c2f21d79bad5a3550dc8c8, type: 3}
+  bulletColor: {r: 0.5, g: 1.1, b: 2.4, a: 1}
+  damage: 1
+  bulletSpeed: 14
+  fireRate: 4
+  pattern: 0
+  spreadAngle: 12
+  bossDamagePercent: 0.18

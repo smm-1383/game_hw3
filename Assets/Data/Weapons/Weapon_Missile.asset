@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58699952397a9d9e0b7f5a600a3d0cf3, type: 3}
+  m_Name: Weapon_Missile
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponDataSO
+  weaponName: Missile
+  icon: {fileID: 21300000, guid: 7ac3f901013fc91bdaf5ee007bb55096, type: 3}
+  bulletPrefab: {fileID: 0}
+  bulletColor: {r: 1, g: 1, b: 1, a: 1}
+  damage: 0
+  bulletSpeed: 14
+  fireRate: 5
+  pattern: 0
+  spreadAngle: 12
+  bossDamagePercent: 0.18
