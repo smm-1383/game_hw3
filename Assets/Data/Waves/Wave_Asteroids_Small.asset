@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab023e9fc19544ee68ee3e0fc789f95c, type: 3}
+  m_Name: Wave_Asteroids_Small
+  m_EditorClassIdentifier: Assembly-CSharp::WaveDataSO
+  waveType: 1
+  enemy: {fileID: 11400000, guid: d9d96b3b5d4023247879dc7f8f77ac07, type: 2}
+  chickenPrefab: {fileID: 0}
+  count: 10
+  formation: 0
+  cols: 5
+  spacing: {x: 1.2, y: 1}
+  formationTop: 0.85
+  swayAmount: 0.5
+  swaySpeed: 1
+  entryPaths: []
+  entryDelay: 0.25
+  eggMin: 3
+  eggMax: 6
+  diveChance: 0.3
+  diveInterval: 5
+  asteroidPrefab: {fileID: 496653159154055799, guid: 32399636478a053f2a3e792c0f755c0a, type: 3}
+  asteroidCount: 20
+  asteroidSpawnInterval: 0.5
+  asteroidHpMin: 1
+  asteroidHpMax: 3
+  asteroidSpeedMin: 3
+  asteroidSpeedMax: 5
+  asteroidSprites:
+  - {fileID: 21300000, guid: 72b1a5b4bc1f0a4f1ab292ee269b061c, type: 3}
+  - {fileID: 21300000, guid: d61fc5bdee818857dacccccc939573b0, type: 3}
+  - {fileID: 21300000, guid: ba61cd736d736a20b8a35a8a7304ae91, type: 3}
+  - {fileID: 21300000, guid: fe4645ec472ef7df2beef8c7c62ff273, type: 3}
+  - {fileID: 21300000, guid: a7b913a5a0ebf585d8532ab57c016531, type: 3}
+  - {fileID: 21300000, guid: c93ba65c5dae0606983b22a226e41598, type: 3}
+  - {fileID: 21300000, guid: 78af739163d866e7885c5e148c1b4c24, type: 3}
+  - {fileID: 21300000, guid: 5d89184ee46b4ceab9de061cece4d46a, type: 3}
+  - {fileID: 21300000, guid: 2ed22ee46b49f15cbb7b7d30172b02fc, type: 3}
+  - {fileID: 21300000, guid: a41087a576d85a9a19bc27e0458cd1ac, type: 3}
+  - {fileID: 21300000, guid: c02f5f050c38eb5d5a2fe0d48fcc5796, type: 3}
+  - {fileID: 21300000, guid: 8463fe696d70e67b48659cd89c95c1a4, type: 3}
+  - {fileID: 21300000, guid: 4bb7ea5a0688932659f8385adb859fd0, type: 3}
+  - {fileID: 21300000, guid: ee29bf7a09f50aac6898b0bcae53f93f, type: 3}
+  - {fileID: 21300000, guid: ee29bf7a09f50aac6898b0bcae53f93f, type: 3}
+  - {fileID: 21300000, guid: ee29bf7a09f50aac6898b0bcae53f93f, type: 3}
+  asteroidScaleMin: 0.4
+  asteroidScaleMax: 0.8
+  asteroidSpinMin: 40
+  asteroidSpinMax: 160
+  asteroidDriftMax: 1
+  bossPrefab: {fileID: 0}
