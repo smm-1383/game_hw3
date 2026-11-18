@@ -1,0 +1,64 @@
+CHICKEN SHOOTER - ART AND AUDIO CREDITS
+=======================================
+All third-party assets below are CC0 (public domain) except the chicken cluck sound,
+which is CC BY 3.0 and needs the credit in section 2.
+
+1. CC0 ASSETS (credit not required, given anyway)
+
+Kenney, Space Shooter Redux - https://kenney.nl/assets/space-shooter-redux - CC0
+  Player ship, laser sprites, meteors, ship life icon.
+Kenney, Space Shooter Extension - https://kenney.nl/assets/space-shooter-extension - CC0
+  Missile sprite.
+Kenney, UI Pack Sci-fi - https://kenney.nl/assets/ui-pack-sci-fi - CC0
+  Button and panel sprites, "Kenney Future" font.
+Kenney, Particle Pack - https://kenney.nl/assets/particle-pack - CC0
+  Flame and circle particle textures.
+Kenney, Planets - https://kenney.nl/assets/planets - CC0
+  Earth-like planet (Level 1) and tan/orange planet (Level 2).
+Kenney, Food Kit (2D preview render of the burger) - https://kenney.nl/assets/food-kit - CC0
+Kenney, Digital Audio - https://kenney.nl/assets/digital-audio - CC0 (pickup sound)
+Kenney, Sci-fi Sounds - https://kenney.nl/assets/sci-fi-sounds - CC0 (laser, big explosion)
+Kenney, Interface Sounds - https://kenney.nl/assets/interface-sounds - CC0 (UI click)
+Screaming Brain Studios, Seamless Space Backgrounds (1024 px) -
+  https://screamingbrainstudios.itch.io/seamless-space-backgrounds - CC0
+  Nebula backgrounds: Blue 05 (Level 1), Purple 01 (Level 2), Purple 07 (Level 3), Blue 01 (menu).
+Shiroware, Present Gift Box - https://opengameart.org/node/87299 - CC0 (gift box pickup)
+dant-e, Chiken Animation - https://opengameart.org/content/chiken-animation - CC0
+  Level 1 chicken (16 flap frames, sliced from the sheet), Level 1 boss and the menu chicken.
+Warspawn, Lil Chick - https://opengameart.org/content/lil-chick - CC0 (minion chick)
+bevouliin.com, Free Flappy Hatbird Game Character Sprite Sheets -
+  https://opengameart.org/content/bevouliin-free-flappy-hatbird-game-character-sprite-sheets-for-gamedevs - CC0
+  Level 2 chicken (flying frames).
+bevouliin.com, Free Flappy Monster Sprite Sheets - https://opengameart.org/content/bevouliin-free-flappy-monster-sprite-sheets - CC0
+  Level 3 chicken (flying frames; converted to grayscale and tinted cyan/magenta in the game).
+Atrus (OGA user 507), Colorized Boss Sprites - https://opengameart.org/content/colorized-boss-sprites - CC0
+  Level 2 boss (red mecha, image 0).
+titleknown, 12 Public Domain Boss Sprites - https://opengameart.org/content/12-public-domain-boss-sprites - CC0
+  Level 3 boss ("Solar Power Cockrel Big").
+Wenrexa, Asteroids Pack N01 - https://opengameart.org/content/asteroids-pack-n01 - CC0
+  Asteroids (Mega folder, R1 to R13).
+OgreofWart, Eggs - https://opengameart.org/content/eggs - CC0 (egg variants: basic, yellow, blue)
+Hiross, Simple Feather - https://opengameart.org/content/simple-feather - CC0 (feather particle)
+SketchyLogic, NES Shooter Music - https://opengameart.org/node/28624 - CC0
+  Map = menu, Mercury = Level 1, Mars = Level 2, Venus = Level 3, Boss = boss fights.
+EZduzziteh, Squish Sounds Effects - https://opengameart.org/content/squish-sounds-effects - CC0 (egg splat)
+
+2. CREDIT REQUIRED (CC BY 3.0)
+
+*** "Chicken Sound Effect" by IMadeIt ***
+    https://opengameart.org/content/chicken-sound-effect
+    License: Creative Commons Attribution 3.0 (https://creativecommons.org/licenses/by/3.0/)
+    Changes made: the first 0.36 seconds were cut out and faded out (Assets/Audio/Sfx/cluck.ogg).
+
+3. MADE FOR THIS PROJECT
+
+Drumstick sprite (Assets/Art/Generated/drumstick.png): drawn in code
+by an editor script for this project in a flat Kenney-like style. No outside source.
+Star layers and planet/asteroid-belt background layers (Assets/Art/Generated/): composed in code
+from the Kenney planets and Kenney meteors above, and random dots.
+The white flash shader (Assets/Art/Shaders/SpriteFlash.shader) was written for this project.
+
+4. NOT USED
+
+Sinestesia "2D Explosion Animations #2" was downloaded but not used; explosions use the
+Kenney Particle Pack textures instead.

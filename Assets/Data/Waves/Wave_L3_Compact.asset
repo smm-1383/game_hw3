@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab023e9fc19544ee68ee3e0fc789f95c, type: 3}
+  m_Name: Wave_L3_Compact
+  m_EditorClassIdentifier: Assembly-CSharp::WaveDataSO
+  waveType: 0
+  enemy: {fileID: 11400000, guid: 73e5f7446d154d2ea9131624df09892c, type: 2}
+  chickenPrefab: {fileID: 9195817985769841954, guid: 336940e89bc240822ad65480dd07ae3b, type: 3}
+  count: 24
+  formation: 4
+  cols: 8
+  spacing: {x: 1.45, y: 1.05}
+  formationTop: 0.85
+  swayAmount: 0.3
+  swaySpeed: 1
+  entryPaths:
+  - {fileID: 11400000, guid: 82dd7a9b467ef7b24a7961ab700054a1, type: 2}
+  - {fileID: 11400000, guid: 7439f1bb3aba7ff0d9f052dfc3a4e1e0, type: 2}
+  - {fileID: 11400000, guid: 48dc914bac7076f10a026d4fc6eb7901, type: 2}
+  entryDelay: 0.15
+  eggMin: 15
+  eggMax: 25
+  diveChance: 0.4
+  diveInterval: 4
+  asteroidPrefab: {fileID: 0}
+  asteroidCount: 12
+  asteroidSpawnInterval: 0.8
+  asteroidHpMin: 2
+  asteroidHpMax: 5
+  asteroidSpeedMin: 2
+  asteroidSpeedMax: 4
+  asteroidSprites: []
+  asteroidScaleMin: 1
+  asteroidScaleMax: 1
+  asteroidSpinMin: 20
+  asteroidSpinMax: 90
+  asteroidDriftMax: 0.5
+  bossPrefab: {fileID: 0}
